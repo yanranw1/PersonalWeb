@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/bg2.jpg) no-repeat;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.topnav {
+    background-color: darkgrey;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    background-color:darkgrey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: darkgrey;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: #6ea1b5;
+    color: white;
+}
+
+.work-experience {
+    width: 80%;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 5%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.work-experience h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    text-align: center;
+    color: white;
+}
+
+.work-experience p{
+    color: white;
+}
+
+
+h2 {
+    font-size: 24px;
+    color: white;
+}
+
+.footer-design {
+    padding: 14px 16px;
+    background-color:darkgrey;
+    color:#4b4c4d;
+    text-align: center;
+    margin-top: 10%;
+    font-size:16px;
+    font-family: 'Josefin Sans', sans-serif;
+}

@@ -10,40 +10,45 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/15
-- */1 Readme
-- */3 Basic HTML content
-- */3 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+15/15
+- 1/1 Readme
+- 3/3 Basic HTML content
+- 3/3 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
-
 (a) Basic features
-
+At least one image, with descriptive alt attribute(s)
+Appropriate headings and paragraph text
+Links to external page(s)
+Multiple pages, with appropriate navigation between them
+Adding custom icons from Google Material Icons or Font Awesome
+Semantic HTML tags like aside or footer
 
 
 (b) CSS features
-
-
+Modifying padding and margins to indent content and enhance readability
+Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the Resources section.
+Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks)
 
 (c) Advanced features
-
+Creating a more complex page layout, such as including a sidebar or navigation bar
+Implement photo slider
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
-
+6 hours
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
-
+https://www.youtube.com/watch?v=4XmhtbcMWEY&ab_channel=DarkCode
+https://www.w3schools.com/howto/howto_js_topnav.asp
+https://www.youtube.com/watch?v=McPdzhLRzCg&ab_channel=Skillthrive
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
-
+None
 
 6. Is there anything special we need to know in order to run your code?
-
+No

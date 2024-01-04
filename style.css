@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: darkgrey;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    background-color:darkgrey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: darkgrey;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #6ea1b5;
+    color: white;
+}
+
+.box{
+    width: 60%;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 5%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box p{
+    text-align: justify;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+
+
+
+.footer-design {
+    padding: 14px 16px;
+    background-color:darkgrey;
+    color:#4b4c4d;
+    text-align: center;
+    margin-top: 10%;
+    font-size:16px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
